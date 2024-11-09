@@ -1,6 +1,5 @@
 ## Olá! Eu sou a Jaqueline Silva
 
-- 🔭 Estou atualmente estudando análise e desenvolvimento de sistema
 - 🌱 Estou aprendendo VueJs e JavaScript
 
 <div align="center">
